@@ -20,25 +20,82 @@
 * ⚙️ Infrastructure as Code with **Terraform** and automation using **Ansible**
 * 🔄 CI/CD implementation using **Jenkins** and **GitHub Actions**
 * 🐧 Strong Linux administration and troubleshooting skills
-* 🐍 Automation and scripting with **Python** & **Bash**
+* 🐍 Automation and scripting with **Python & Bash**
 * 🗄️ Experience with **PostgreSQL**, migrations, backups, and automation
 * 📈 Passionate about automation, scalability, reliability, and security
 
 ---
 
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux" />
+</p>
+
+### ⚙️ DevOps & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions" />
+</p>
+
+### 💻 Scripting & SCM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### 📊 Monitoring & Observability
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+```yaml
+Learning:
+  - Kubernetes Operators
+  - GitOps with ArgoCD
+  - Platform Engineering
+  - Multi-Cloud Architecture
+
+Building:
+  - DriftShield
+  - PostgreSQL Migration Dashboard
+  - DevOps Automation Toolkit
+```
+
+---
+
 ## 🚀 Featured Projects
 
-### DriftShield
+### 🛡️ DriftShield
 
-PostgreSQL Schema Drift Detection, Comparison and Synchronization Platform.
+Enterprise PostgreSQL Schema Drift Detection, Comparison, Risk Analysis and Automated Synchronization Platform.
 
-### PostgreSQL Migration Dashboard
+**Tech:** PostgreSQL • React • Spring Boot • MongoDB • Docker
 
-Automated database migration tracking, validation and reporting solution.
+### 🗄️ PostgreSQL Migration Dashboard
 
-### DevOps Automation Toolkit
+Migration Monitoring, Validation, Rollback Tracking and Executive Reporting Dashboard.
 
-Collection of Infrastructure Automation, CI/CD and Cloud Operations utilities.
+**Tech:** PostgreSQL • Spring Boot • React • Kubernetes
+
+### ⚙️ DevOps Automation Toolkit
+
+Infrastructure Automation Scripts, CI/CD Templates, Kubernetes Utilities and Cloud Operations Tools.
+
+**Tech:** Terraform • Ansible • Jenkins • GitHub Actions • Python
 
 ---
 
@@ -50,10 +107,19 @@ Collection of Infrastructure Automation, CI/CD and Cloud Operations utilities.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TARUNSAI77022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARUNSAI77022&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TARUNSAI77022&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TARUNSAI77022&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -78,15 +144,15 @@ Collection of Infrastructure Automation, CI/CD and Cloud Operations utilities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kakarla-tarun-sai/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kakarla%20Tarun%20Sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:kakarla.sai3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kakarla.sai3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/TARUNSAI77022">
-    <img src="https://img.shields.io/badge/GitHub-TARUNSAI77022-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 

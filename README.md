@@ -107,26 +107,6 @@ Infrastructure Automation Scripts, CI/CD Templates, Kubernetes Utilities and Clo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunsai&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsai&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TARUNSAI77022&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">

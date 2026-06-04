@@ -1,47 +1,52 @@
-<h1 align="center">👋 Hey, I'm Tarun Sai Kakarla</h1>
+# 👋 Hey, I'm Tarun Sai Kakarla
+
+### DevOps Engineer | Cloud Engineer | Infrastructure Automation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+3+Years+of+Experience;Cloud+%7C+Infrastructure+%7C+Automation;Azure+%7C+AWS+%7C+GCP+%7C+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+Cloud+Infrastructure;Linux+%7C+Docker+%7C+Jenkins+%7C+GitHub+Actions" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🏗️ **3 years** of hands-on DevOps Engineering experience
-- ☁️ Working across **Azure, AWS & GCP** — architecting scalable cloud infrastructure
-- 🐳 Deep expertise in **Docker, Kubernetes** — containerization & orchestration at scale
-- ⚙️ Automating everything with **Terraform, Ansible** & **CI/CD pipelines**
-- 🔁 Building & maintaining pipelines via **Jenkins & GitHub Actions**
-- 🐍 Scripting & automating with **Python** and **Bash/Shell**
-- 🎯 Goal: Deliver resilient, secure, and highly automated infrastructure
+* 🏗️ DevOps Engineer with 3+ years of hands-on experience
+* ☁️ Experienced in designing and managing cloud infrastructure on AWS & Azure
+* 🐳 Strong expertise in Docker, Kubernetes and container orchestration
+* ⚙️ Infrastructure as Code using Terraform and configuration management with Ansible
+* 🔄 Building scalable CI/CD pipelines using Jenkins and GitHub Actions
+* 🐧 Linux administration, automation and troubleshooting
+* 🐍 Automation scripting with Python and Bash
+* 🗄️ Experience with PostgreSQL administration, migrations and automation
+* 📈 Focused on reliability, automation, scalability and security
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+
+AWS • Azure • GCP (Learning)
 
 ### ⚙️ DevOps & Automation
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
 
-### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
+Terraform • Ansible • Docker • Kubernetes • Helm • Jenkins • GitHub Actions • ArgoCD
+
+### 💻 Scripting & Development
+
+Python • Bash • Shell Scripting • Git • GitHub
+
+### 🗄️ Databases
+
+PostgreSQL • MongoDB
+
+### 📊 Monitoring & Observability
+
+Prometheus • Grafana • ELK Stack
+
+### 🖥️ Operating Systems
+
+Linux (Ubuntu, RHEL, CentOS)
 
 ---
 
@@ -49,16 +54,40 @@
 
 ```yaml
 Learning:
-  - Advanced Kubernetes (Operators, Helm, Service Mesh)
-  - Multi-cloud Architecture Patterns
-  - GitOps with ArgoCD / FluxCD
-  - Observability: Prometheus, Grafana, ELK Stack
+  - Kubernetes Operators
+  - GitOps with ArgoCD
+  - Advanced Terraform Modules
+  - Multi-Cloud Architecture
+  - Platform Engineering
 
 Building:
-  - Cloud-native DevOps Projects
-  - Infrastructure-as-Code Templates
-  - CI/CD Pipeline Blueprints
+  - End-to-End CI/CD Platforms
+  - Kubernetes Deployment Frameworks
+  - Cloud Infrastructure Templates
+  - DevOps Automation Tools
 ```
+
+---
+
+## 🏆 Featured Skills
+
+✅ AWS Infrastructure Management
+
+✅ Azure Cloud Administration
+
+✅ Kubernetes Cluster Management
+
+✅ Terraform Infrastructure Automation
+
+✅ CI/CD Pipeline Development
+
+✅ Linux System Administration
+
+✅ Docker Containerization
+
+✅ PostgreSQL Database Automation
+
+✅ Monitoring & Observability
 
 ---
 
@@ -69,32 +98,16 @@ Building:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunSaiKakarla&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSaiKakarla&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/tarunsaikakarla">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tarunsai@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/TarunSaiKakarla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+* LinkedIn: linkedin.com/in/tarunsaikakarla
+* GitHub: github.com/TarunSaiKakarla
+* Email: Your Professional Email
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TarunSaiKakarla&color=00bfff&style=flat-square&label=Profile+Views"/>
-</p>
+### 💡 DevOps Philosophy
 
-<p align="center">
-  <i>"Automate everything. Document what you can't."</i>
-</p>
+> Automate everything. Monitor everything. Document everything.

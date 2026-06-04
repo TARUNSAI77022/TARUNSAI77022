@@ -53,7 +53,7 @@ Collection of Infrastructure Automation, CI/CD and Cloud Operations utilities.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TARUNSAI77022&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=TARUNSAI77022&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---

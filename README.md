@@ -3,7 +3,11 @@
 ### DevOps Engineer | Cloud Engineer | Infrastructure Automation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+Cloud+Infrastructure;Linux+%7C+Docker+%7C+Jenkins+%7C+GitHub+Actions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Linux+%7C+PostgreSQL;Cloud+Infrastructure+%7C+Automation+%7C+DevOps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TARUNSAI77022&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -22,82 +26,53 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### ☁️ Cloud Platforms
+### DriftShield
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+PostgreSQL Schema Drift Detection, Comparison and Synchronization Platform.
 
-### ⚙️ DevOps & Automation
+### PostgreSQL Migration Dashboard
 
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-</p>
+Automated database migration tracking, validation and reporting solution.
 
-### 💻 Scripting & Development
+### DevOps Automation Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+Collection of Infrastructure Automation, CI/CD and Cloud Operations utilities.
 
-### 🗄️ Databases
+---
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## 📊 GitHub Profile Summary
 
-### 📊 Monitoring & Observability
-
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
-</p>
-
-### 🖥️ Operating Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TARUNSAI77022&theme=github_dark" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 🏆 GitHub Trophies
 
-```yaml
-Learning:
-  - Kubernetes Operators
-  - GitOps with ArgoCD
-  - Advanced Terraform Modules
-  - Platform Engineering
-  - Multi-Cloud Architecture
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TARUNSAI77022&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
-Building:
-  - End-to-End CI/CD Platforms
-  - Kubernetes Deployment Frameworks
-  - Infrastructure as Code Templates
-  - DevOps Automation Projects
-```
+---
 
+## 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TARUNSAI77022&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TARUNSAI77022/TARUNSAI77022/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
@@ -113,12 +88,6 @@ Building:
   <a href="https://github.com/TARUNSAI77022">
     <img src="https://img.shields.io/badge/GitHub-TARUNSAI77022-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TARUNSAI77022&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
